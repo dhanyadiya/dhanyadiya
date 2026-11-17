@@ -34,4 +34,11 @@
 [LinkedIn](https://www.linkedin.com/in/dhanya-naik-088a86323) | [GitHub](https://github.com/dhanyadiya) | Email: dhanyanaik651@gmail.com
 
 ⭐ *"Learning every day, building step by step, and growing with technology."*
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=dhanyadiya&show_icons=true&theme=merko&hide_border=true" height="165"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanyadiya&theme=merko&hide_border=true" height="165"/> </p>
+
+💻 Most Used Languages
+
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyadiya&layout=compact&theme=merko&hide_border=true" height="165"/> </p>
+
+🌱 Contribution Activity
 
